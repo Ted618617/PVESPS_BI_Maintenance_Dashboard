@@ -1,0 +1,4 @@
+﻿model_name,valid_mae,valid_rmse,valid_mape,test_mae,test_rmse,test_mape
+random_forest,35.5778,66.0636,1.9315,109.1443,194.9187,4.8945
+linear_regression,44.3132,56.5661,3.4323,63.7382,84.5206,4.4156
+naive_lag1,138.1998,180.9771,8.7417,227.523,323.7055,11.0914
